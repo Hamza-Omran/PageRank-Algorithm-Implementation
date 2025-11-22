@@ -1,4 +1,7 @@
-# PageRank Algorithm Implementation - 2024
+# PageRank Algorithm Implementation - 2023
+
+## Academic Context
+This project was developed as part of the "Introduction to AI" course (2023).
 
 ## Overview
 
